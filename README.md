@@ -16,4 +16,4 @@ dependencies of the project. After that you can build the project.
 
 The `cpp` directory contains a `Makefile` to get you started, read the
 comments in the `Makefile` and add your project's files as
-appropriate.
+appropriate, then you can just invoke `make`.

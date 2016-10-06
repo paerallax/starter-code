@@ -6,7 +6,7 @@ src :=
 libs := -lc++
 # These are some useful flags
 flags := -Wall -Wextra -std=c++11 -fsanitize=address -stdlib=libc++
-cc := $(shell which clang)
+cc := $(shell which clang++)
 # Put all the object files you will make, example foo.o
 objs := main.o
 # final exectuable name, add it
