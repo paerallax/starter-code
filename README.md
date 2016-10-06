@@ -11,3 +11,9 @@ directory.
 After cloning this repository, change directories to the `javascript`
 directory and type `npm install`. This will install all the
 dependencies of the project. After that you can build the project.
+
+# C++ 
+
+The `cpp` directory contains a `Makefile` to get you started, read the
+comments in the `Makefile` and add your project's files as
+appropriate.
