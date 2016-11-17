@@ -10,7 +10,9 @@ directory.
 # JavaScript
 After cloning this repository, change directories to the `javascript`
 directory and type `npm install`. This will install all the
-dependencies of the project. After that you can build the project.
+dependencies of the project. After that you can do: `npm run
+front-end-server` to start up a simple dev server which lets you see
+changes done to your `JSX` in realtime.
 
 # C++ 
 
